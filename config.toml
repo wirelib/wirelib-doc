@@ -1,0 +1,11 @@
+baseURL = "https://wirelib.github.io/"
+languageCode = "en-us"
+title = "Wire - Telegram Bot Library"
+
+theme = "hugo-theme-learn"
+
+[params]
+themeVariant = "blue"
+# For search functionnality
+[outputs]
+home = [ "HTML", "RSS", "JSON"]

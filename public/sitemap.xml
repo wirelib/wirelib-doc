@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://wirelib.github.io/installation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wirelib.github.io/class_reference/wire/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wirelib.github.io/class_reference/telegram/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wirelib.github.io/usage/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wirelib.github.io/class_reference/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wirelib.github.io/class_reference/context/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wirelib.github.io/examples/echo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wirelib.github.io/examples/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wirelib.github.io/installation/manual/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wirelib.github.io/usage/wire/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wirelib.github.io/usage/wire.1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wirelib.github.io/installation/maven/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wirelib.github.io/installation/gradle/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wirelib.github.io/usage/callbacks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wirelib.github.io/usage/middlewares/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wirelib.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wirelib.github.io/usage/context/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wirelib.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wirelib.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
